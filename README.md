@@ -4,6 +4,24 @@
 
 ---
 
+## 🎓 Образование и развитие
+
+**Академическая база:**
+* 🏛 **СПбГУАП** (Государственный университет аэрокосмического приборостроения)
+* 💻 **Специальность:** Программная инженерия, 2-й курс
+
+**Непрерывное обучение:**
+Свой рабочий стек и профильные знания я активно прокачиваю самостоятельно. Умею находить нужную информацию, быстро разбираться в новых технологиях и эффективно решать нестандартные задачи, используя силу комьюнити и AI:
+
+![Stepik](https://img.shields.io/badge/Stepik-000000?style=for-the-badge&logo=stepik&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![AI & Нейросети](https://img.shields.io/badge/AI_%26_LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Хабр](https://img.shields.io/badge/Хабр-65A3BE?style=for-the-badge&logo=habr&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
 ## 🛠 Мой стек технологий
 
 **Языки программирования:**
