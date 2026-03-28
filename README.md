@@ -53,15 +53,6 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xshoWW&show_icons=true&theme=tokyonight&locale=ru&hide_border=true" alt="Статистика Рената" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xshoWW&layout=compact&theme=tokyonight&hide_border=true" alt="Топ языков" />
-</div>
-
----
-
 ## 📫 Связаться со мной:
 * **Telegram:** [@ARV_15](https://t.me/ARV_15) 
 * **Email:** renatren25@gmail.com
